@@ -1,0 +1,36 @@
+# Keil MDK build output
+Objects/
+Objects_bad/
+obj/
+Listings/
+DebugConfig/
+*.crf
+*.o
+*.obj
+*.d
+*.lnp
+*.map
+*.lst
+*.htm
+*.sct
+*.axf
+*.hex
+*.bin
+*.dep
+*.bak
+build*.log
+
+# IDE user-specific state
+*.uvguix.*
+
+# vendor module archives (manuals, tool packages)
+*.rar
+*.zip
+
+# PC-side test binaries
+tests/*.exe
+
+# misc
+__pycache__/
+Thumbs.db
+Desktop.ini
